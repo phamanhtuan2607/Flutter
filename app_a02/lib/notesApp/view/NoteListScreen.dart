@@ -4,8 +4,6 @@ import 'package:app_a02/notesApp/model/Note.dart';
 import 'package:app_a02/notesApp/view/NoteDetailScreen.dart';
 import 'package:app_a02/notesApp/view/NoteForm.dart';
 import 'package:app_a02/notesApp/view/NoteItem.dart';
-import 'package:app_a02/notesApp/view/NoteSearchDelegate.dart';
-import "package:app_a02/notesApp/api/NoteAPIService.dart";
 
 
 
